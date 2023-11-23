@@ -1,7 +1,7 @@
 
-# Mechine Test 1 
+# Mechine Test 2
 
-- To create ui
+- To create parallax
 
 
 
@@ -10,7 +10,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Ajmal-Ali-k/mechine_test_1.git
+  git clone https://github.com/Ajmal-Ali-k/mechine_test_2.git
 ```
 
 
